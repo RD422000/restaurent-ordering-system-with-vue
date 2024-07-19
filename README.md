@@ -2,7 +2,7 @@
 ### Prerequisites 
 <br>
 Make sure you have Node.js and npm installed. Install Vue CLI globally. 
-npm install -g @vue/cli 
+<br> npm install -g @vue/cli 
 <br>
 Setting Up the Project 
 <br>

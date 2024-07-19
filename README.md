@@ -3,9 +3,8 @@
 <br>
 Make sure you have Node.js and npm installed. Install Vue CLI globally. 
 <br> npm install -g @vue/cli 
-<br>
-Setting Up the Project 
-<br>
+<br> <br>
+
 Create a new Vue project: <br>
 vue create restaurant-ordering-system <br> <br>
 Navigate to the project directory: <br>

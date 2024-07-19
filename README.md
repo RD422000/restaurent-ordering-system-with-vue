@@ -1,8 +1,11 @@
 # restaurent-ordering-system-with-vue
-Prerequisites <br>
-Make sure you have Node.js and npm installed. Install Vue CLI globally. <br>
-npm install -g @vue/cli <br>
-Setting Up the Project <br>
+### Prerequisites 
+<br>
+Make sure you have Node.js and npm installed. Install Vue CLI globally. 
+npm install -g @vue/cli 
+<br>
+### Setting Up the Project 
+<br>
 Create a new Vue project: <br>
 vue create restaurant-ordering-system <br>
 Navigate to the project directory: <br>
